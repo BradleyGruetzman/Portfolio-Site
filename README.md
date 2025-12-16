@@ -37,10 +37,10 @@ portfolio-site/
 │   ├── main.tf
 │   ├── variables.tf
 │   ├── terraform.tfvars
+|   ├── terraform.tfstate
 │   └── outputs.tf
 ├── website/
 │   ├── index.html
-│   ├── css/
-│   ├── images/
-│   └── assets/
+│   ├── resume.pdf
+│   └── profile.jpg
 └── README.md
